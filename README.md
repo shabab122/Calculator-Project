@@ -47,4 +47,20 @@ Most beginner calculator projects focus only on functionality. This project goes
 * Scientific calculator functions
 * Sound effects and enhanced animations
 
+## Installation
 
+Clone the project:
+
+```bash
+git clone <https://github.com/shabab122>
+```
+
+Open the project folder:
+
+```bash
+cd Calculator-Project
+```
+
+## Author
+
+Shabab Ahmed
